@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 include ("api/authgg.php");
-AuthGG::Initialize("AIDHERE", "SECRETHERE");
+AuthGG::Initialize("883788", "NTUzfZsJpTKeMunkhrg8hc8LBmSrIT1fUwe");
 ?>
 <!DOCTYPE html>
 <html lang="en">
